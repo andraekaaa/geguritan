@@ -1,7 +1,9 @@
-# Asmaul Husna Lyric Constitution
-**Version:** 1.0  
-**Status:** Canon Constitution  
+# ASMAUL HUSNA LYRIC CONSTITUTION
+
+**Version:** 1.1
+**Status:** Canon Constitution
 **Scope:** Penyusunan Syair Pujian Asmaul Husna
+**Genre:** Syair Sastra / Kidung Donga
 
 ---
 
@@ -9,208 +11,481 @@
 
 Konstitusi ini menjadi pedoman utama dalam penyusunan seluruh syair Asmaul Husna.
 
-Tujuan utama bukan sekadar menghasilkan rima yang indah, melainkan membangun lantunan pujian yang:
+Karya tidak ditujukan sekadar untuk menghasilkan kalimat berima, melainkan membangun **kidung donga** yang:
 
-- sesuai dengan makna Asmaul Husna,
-- penuh adab kepada Allah ﷻ,
-- mudah dilantunkan berjamaah,
-- menggunakan bahasa Jawa yang luhur,
-- serta memiliki identitas sastra yang konsisten.
+* sesuai dengan makna Asmaul Husna,
+* menjaga adab kepada Allah ﷻ,
+* memiliki kedalaman spiritual,
+* dapat dilantunkan dengan baik,
+* menggunakan bahasa Jawa yang luhur,
+* memiliki kekayaan sastra,
+* dan membentuk identitas artistik yang konsisten.
 
----
+Karya harus mampu berdiri sekaligus sebagai:
 
-# 2. Prioritas Konstitusi
-
-Apabila terjadi konflik antar unsur, gunakan urutan prioritas berikut.
-
-1. Makna Asmaul Husna
-2. Adab kepada Allah ﷻ
-3. Makna doa
-4. Irama dan rima
-5. Keindahan diksi
-
-Rima tidak boleh mengubah makna Asmaul Husna.
-
-Keindahan sastra tidak boleh mengurangi adab kepada Allah.
+**pujian, doa, sastra, dan lantunan.**
 
 ---
 
-# 3. Identitas Bait
+# 2. Hakikat Karya
 
-Setiap bait memiliki identitas yang jelas.
+Syair diperlakukan sebagai **karya sastra dan kidung donga**, bukan sebagai:
 
-Baris pertama berfungsi sebagai identitas Asmaul Husna.
+* percakapan sehari-hari,
+* prosa informatif,
+* terjemahan literal,
+* atau penjelasan ensiklopedis.
+
+Karena itu, bahasa boleh memiliki tingkat keindahan, kedalaman, dan keasingan tertentu yang tidak ditemukan dalam bahasa percakapan.
+
+Keterpahaman langsung merupakan nilai penting, tetapi **bukan satu-satunya ukuran kualitas**.
+
+Sebuah ungkapan tidak boleh disederhanakan hanya karena pendengar tidak langsung memahaminya apabila penyederhanaan tersebut justru mengurangi ketepatan makna atau kekuatan sastra.
+
+---
+
+# 3. Hirarki Prioritas
+
+Apabila terjadi konflik antarunsur, gunakan urutan prioritas:
+
+1. **Makna Asmaul Husna**
+2. **Ketepatan teologis dan tauhid**
+3. **Adab kepada Allah ﷻ**
+4. **Makna doa**
+5. **Ketepatan diksi**
+6. **Rasa sastra dan kedalaman metafora**
+7. **Musikalitas dan keterlantunan**
+8. **Rima**
+9. **Keterpahaman langsung**
+
+Rima tidak boleh mengubah makna.
+
+Keindahan sastra tidak boleh merusak teologi.
+
+Keterpahaman tidak boleh memaksa karya menjadi bahasa percakapan.
+
+Namun prioritas ini tidak berarti setiap unsur di bawahnya boleh diabaikan. Seluruh unsur tetap diupayakan selaras.
+
+---
+
+# 4. Identitas Asmaul Husna
+
+Setiap bait harus mempunyai **satu pusat identitas Asmaul Husna** yang jelas.
+
+Baris pertama berfungsi sebagai pintu masuk identitas tersebut.
 
 Contoh:
 
-> Ya Allah Gusti, Ingkang Maha Welas Asih.
+> Ya Allah Gusti, Ingkang Maha Ngratoni.
 
-atau
+atau:
 
-> Ya Allah Gusti, Ingkang Maha Paring Pitedah.
+> Ya Allah Gusti, Ingkang Maha Quddus.
 
-Baris pertama tidak wajib mengikuti pola rima baris berikutnya.
+atau:
 
-Makna lebih diutamakan daripada keseragaman bunyi.
+> Ya Allah Gusti, Maha Paring Pitedah.
 
----
+Baris pertama **tidak wajib mengikuti rima baris berikutnya**.
 
-# 4. Struktur Bait
-
-Tidak ada struktur baku.
-
-Namun secara umum sebuah bait dapat terdiri atas:
-
-- Identitas Asmaul Husna
-- Kondisi manusia
-- Permohonan
-- Harapan
-- Penutup
-
-Urutan dapat berubah selama makna tetap utuh.
+Makna dan kekuatan identitas Asmaul Husna lebih penting daripada keseragaman bunyi.
 
 ---
 
-# 5. Prinsip Rima
+# 5. Kesatuan Gagasan
 
-Rima digunakan untuk mendukung kemudahan lantunan.
+Setiap bait wajib mempunyai **satu pusat gagasan**.
 
-Prioritas rima berada pada isi bait.
+Bait tidak boleh menjadi kumpulan kata-kata indah yang tidak mempunyai hubungan makna.
 
-Baris identitas diperbolehkan memiliki akhiran berbeda apabila diperlukan untuk menjaga makna Asmaul Husna.
+Tema dapat bergerak melalui pola seperti:
+
+**Pujian → penggambaran → kesadaran manusia → permohonan → harapan → penyerahan**
+
+Namun pola tersebut **tidak bersifat wajib**.
+
+Yang wajib adalah:
+
+* kesatuan tema,
+* perkembangan makna,
+* dan hubungan yang jelas dengan Asmaul Husna.
 
 Contoh:
 
-H
-O
-O
-O
-O
+**Al-Hādī** dapat bergerak pada:
 
-tetap dianggap harmonis.
+* hidayah,
+* pitedah,
+* pepadhang,
+* tuntunan,
+* margi,
+* istiqamah,
+* penjagaan hati.
+
+Tidak boleh bergeser menjadi tema lain tanpa hubungan makna yang jelas.
 
 ---
 
-# 6. Bahasa
+# 6. Bahasa dan Tingkat Tutur
 
-Gunakan bahasa Jawa sastra.
+Gunakan **bahasa Jawa sastra**, bukan bahasa percakapan sehari-hari.
 
-Bukan bahasa percakapan sehari-hari.
+Diutamakan:
 
-Diutamakan menggunakan:
-
-- Krama
-- Krama Inggil
-- Kosakata sastra Jawa
-- Kosakata klasik yang masih dapat dipahami
+* krama,
+* krama inggil,
+* kosakata sastra Jawa,
+* kosakata klasik,
+* kosakata arkais,
+* istilah filosofis,
+* dan serapan Arab yang relevan.
 
 Contoh:
 
-- titah
-- bawana
-- pangaksama
-- pepadhang
-- penggalih
-- margi
-- karsa
-- ngreksa
-- pitedah
+* titah
+* bawana
+* dumadi
+* pangaksama
+* pepadhang
+* penggalih
+* margi
+* karsa
+* ngreksa
+* pitedah
+* pinasti
+* pinesthi
+* pandum
+* panembahan
+* wewayangan
+* nir-mala
+
+Kosakata tidak harus berasal dari bahasa percakapan modern selama memiliki **fungsi sastra dan makna yang dapat dipertanggungjawabkan**.
 
 ---
 
-# 7. Adab kepada Allah
+# 7. Kebebasan Diksi Sastra
 
-Seluruh kalimat wajib menjaga penghormatan kepada Allah ﷻ.
+Syair diperbolehkan menggunakan:
 
-Tidak menggunakan ungkapan yang merendahkan.
+* kosakata tingkat tinggi,
+* kosakata arkais,
+* bentuk sastra,
+* istilah klasik,
+* metafora,
+* alegori,
+* aforisme,
+* serapan Arab,
+* ungkapan filosofis,
+* serta bentuk puitis yang sesuai dengan karakter karya.
 
-Pemilihan kata harus mencerminkan:
+Prinsip utama:
 
-- pengagungan
-- kerendahan hati
-- ketundukan
-- pengharapan
-- rasa takut
-- rasa cinta
+> **“Tidak langsung dimengerti” tidak sama dengan “salah”.**
+
+Sebaliknya:
+
+> **“Terdengar indah” juga tidak otomatis berarti “benar”.**
+
+Sebuah diksi langka dapat dipertahankan apabila:
+
+* maknanya paling tepat,
+* memiliki dasar atau konteks penggunaan yang dapat dipertanggungjawabkan,
+* memperkuat gagasan,
+* sesuai dengan unggah-ungguh,
+* dan hidup secara artistik dalam bait.
+
+Dengan demikian, suatu kata **tidak boleh diganti hanya karena jarang dipahami** apabila padanan yang lebih umum justru kehilangan kedalaman makna.
+
+Contoh prinsip:
+
+> **Nirdoning Ungen-Upomo**
+
+dapat dipertahankan apabila digunakan untuk membawa gagasan bahwa **tidak terdapat ukuran, pembanding, atau umpama yang mampu menjangkau kesucian dan keagungan Allah**.
 
 ---
 
-# 8. Konsistensi Makna
+# 8. Audit Diksi Langka dan Bentuk Puitis
 
-Setiap bait harus tetap berada dalam tema Asmaul Husna yang sedang dibahas.
+Diksi yang tidak umum harus **diaudit, bukan langsung ditolak**.
+
+Audit dilakukan dengan membedakan:
+
+### A. Salah
+
+Makna atau bentuknya keliru dan tidak dapat dipertanggungjawabkan.
+
+### B. Tidak Lazim
+
+Jarang digunakan, tetapi masih memiliki dasar dan dapat berfungsi dalam sastra.
+
+### C. Bentuk Puitis
+
+Dipilih secara sadar untuk kebutuhan cengkok, bunyi, atau estetika, dengan makna yang tetap dapat dipahami dalam konteks.
+
+### D. Bentuk Artistik
+
+Memiliki fungsi khusus dalam karya dan tidak digunakan sebagai bahasa sehari-hari.
+
+Bentuk B–D **tidak otomatis harus diganti**.
+
+Pertanyaan audit bukan:
+
+> “Apakah semua orang akan langsung mengerti?”
+
+melainkan:
+
+> “Apakah pilihan ini tepat, dapat dipertanggungjawabkan, dan memperkuat karya?”
+
+---
+
+# 9. Rima dan Musikalitas
+
+Rima merupakan bagian dari arsitektur bunyi syair.
+
+Rima dapat:
+
+* konsisten,
+* berpasangan,
+* berkelompok,
+* menggunakan satu bunyi dominan,
+* atau berubah secara sengaja untuk membentuk perubahan suasana.
+
+Baris identitas tidak wajib mengikuti rima utama.
+
+Contoh pola:
+
+**H — O — O — O — O**
+
+tetap dapat dianggap harmonis apabila secara musikal terasa menyatu.
+
+Rima harus mendukung:
+
+* kelancaran lantunan,
+* kekhusyukan,
+* penekanan makna,
+* dan identitas bait.
+
+Prinsip:
+
+> **Rima mengikuti makna; makna tidak dikorbankan demi rima.**
+
+Namun rima tidak harus selalu dikorbankan demi bentuk paling literal. Apabila terdapat beberapa pilihan yang sama-sama benar, pilihan dengan bunyi paling indah dan mudah dilantunkan dapat diutamakan.
+
+---
+
+# 10. Keterlantunan
+
+Syair harus dapat **dilafalkan dan dilantunkan secara alami**.
+
+Kosakata klasik dan tinggi diperbolehkan selama tidak membuat pelantunan menjadi patah atau kehilangan rasa doa.
+
+Apabila dua diksi:
+
+* sama-sama tepat,
+* sama-sama sopan,
+* dan sama-sama sesuai dengan tema,
+
+maka diksi yang lebih mudah dilantunkan dapat diprioritaskan.
+
+Namun **keterlantunan tidak boleh menjadi alasan untuk memilih kata yang salah secara makna**.
+
+---
+
+# 11. Metafora, Alegori, dan Simbol
+
+Metafora merupakan bagian penting dari identitas sastra karya.
+
+Metafora tidak harus dibaca secara literal.
+
+Metafora diperbolehkan selama arah maknanya jelas secara konseptual dan tidak bertentangan dengan aqidah.
 
 Contoh:
 
-Al-Hādī
+* **wewayangan** → keterbatasan manusia dalam memuji,
+* **pepadhang** → petunjuk,
+* **kaca bening** → hati yang disucikan,
+* **garis pinasti** → ketetapan,
+* **pandum** → bagian/ketentuan hidup,
+* **cahya** → kemuliaan atau petunjuk,
+* **mahkota** → kemuliaan dan kekuasaan.
 
-Tema:
+Metafora terutama digunakan untuk menggambarkan:
 
-- hidayah
-- pitedah
-- margi
-- pepadhang
-- tuntunan
-- istiqamah
+* keterbatasan manusia,
+* keadaan batin,
+* perjalanan hidup,
+* keagungan ciptaan,
+* ketundukan,
+* doa,
+* harapan,
+* dan dampak sifat Allah terhadap kehidupan manusia.
 
-Tidak boleh bergeser menjadi tema rezeki atau perlindungan kecuali masih berkaitan langsung.
-
----
-
-# 9. Konsistensi Nada
-
-Setiap bait harus terasa berasal dari satu karya.
-
-Walaupun menggunakan rima berbeda, seluruh kumpulan syair harus memiliki:
-
-- gaya bahasa yang seragam,
-- pilihan diksi yang sekelas,
-- tingkat kesopanan yang sama,
-- dan nuansa doa yang konsisten.
+Metafora **tidak boleh digunakan untuk menyerupakan Dzat Allah dengan makhluk atau benda**.
 
 ---
 
-# 10. Revisi
+# 12. Unggah-Ungguh Marang Gusti
 
-Tidak ada bait yang dianggap final.
+Karena karya merupakan **kidung donga kepada Allah ﷻ**, seluruh bahasa harus menjaga:
 
-Setiap ditemukannya kosakata yang:
+* pengagungan,
+* kerendahan hati,
+* ketundukan,
+* pengharapan,
+* rasa takut,
+* rasa cinta,
+* dan penghormatan.
 
-- lebih luhur,
-- lebih tepat,
-- lebih sopan kepada Allah,
-- lebih sesuai makna Asmaul Husna,
-- atau lebih indah dilantunkan,
+Hindari ungkapan yang:
 
-maka seluruh bait yang relevan wajib diaudit ulang.
+* merendahkan Allah,
+* menyamakan Allah dengan makhluk,
+* menggambarkan Dzat Allah secara tidak layak,
+* atau mengandung makna yang bertentangan dengan tauhid.
 
-Revisi dipandang sebagai proses penyempurnaan, bukan sebagai kesalahan.
-
----
-
-# 11. Bank Diksi
-
-Bank Diksi merupakan dokumentasi pendukung yang mencatat kosakata,
-ungkapan, dan diksi yang telah digunakan maupun disetujui dalam
-penyusunan syair.
-
-Penyusunan Bank Diksi tidak wajib dilakukan sejak awal.
-
-Pengembangannya mengikuti kebutuhan proyek dan dapat dilakukan setelah
-kumpulan syair mencapai tingkat kematangan yang memadai.
-
-Selama Bank Diksi belum disusun, proses pengembangan syair tetap
-mengacu pada konstitusi ini.
+Penyair boleh menggunakan bahasa metaforis yang tinggi, tetapi **arah pengagungan harus tetap jelas**.
 
 ---
 
-# 12. Tujuan Akhir
+# 13. Bahasa Arab dan Istilah Keagamaan
 
-Target akhir bukan hanya menghasilkan syair yang indah dibaca.
+Kosakata Arab diperbolehkan apabila:
 
-Melainkan menghasilkan pujian yang:
+* memperkuat makna,
+* memiliki hubungan langsung dengan tema,
+* memberikan ketepatan istilah,
+* memperkaya rasa spiritual,
+* atau tidak memiliki padanan Jawa yang memiliki bobot setara.
 
-- mudah dilantunkan,
-- khusyuk didengar,
-- menjaga makna Asmaul Husna,
-- meninggikan adab kepada Allah ﷻ,
-- serta memiliki kualitas sastra yang terus berkembang melalui proses audit dan penyempurnaan.
+Contoh:
+
+* Ikhlasul-Lillah
+* Hidayah
+* Ridha Ilahi
+* Quddus
+* dan istilah lain yang relevan.
+
+Istilah Arab bukan sekadar ornamen rima.
+
+Setiap istilah harus memiliki **fungsi semantik dan spiritual**.
+
+---
+
+# 14. Konsistensi Keseluruhan Karya
+
+Seluruh bait harus terasa berasal dari **satu karya yang sama**.
+
+Konsistensi meliputi:
+
+* gaya bahasa,
+* tingkat tutur,
+* tingkat keluhuran diksi,
+* kedalaman metafora,
+* unggah-ungguh,
+* nuansa doa,
+* dan karakter musikalitas.
+
+Setiap bait boleh mempunyai rima dan warna emosional berbeda selama masih berada dalam satu identitas artistik.
+
+---
+
+# 15. Revisi dan Penyempurnaan
+
+Tidak ada bait yang kebal terhadap revisi.
+
+Apabila ditemukan:
+
+* diksi yang lebih tepat,
+* kosakata yang lebih luhur,
+* bentuk yang lebih sopan,
+* makna yang lebih sesuai,
+* metafora yang lebih kuat,
+* atau susunan yang lebih indah,
+
+bait yang relevan dapat diaudit kembali.
+
+Revisi bukan dianggap sebagai kegagalan.
+
+> **Revisi adalah bagian dari penyempurnaan karya.**
+
+Namun revisi tidak boleh dilakukan hanya karena keinginan mengubah sesuatu.
+
+Setiap perubahan harus mempunyai alasan yang jelas.
+
+---
+
+# 16. Bank Diksi
+
+Bank Diksi merupakan dokumentasi pendukung yang mencatat:
+
+* kosakata yang telah digunakan,
+* kosakata yang disetujui,
+* istilah yang memiliki makna khusus,
+* bentuk puitis,
+* metafora,
+* istilah Arab,
+* serta diksi yang perlu diperlakukan secara khusus.
+
+Bank Diksi tidak wajib disusun sejak awal.
+
+Pengembangannya mengikuti kebutuhan proyek dan dapat dilakukan setelah kumpulan syair mencapai tingkat kematangan tertentu.
+
+Selama Bank Diksi belum disusun, pengembangan tetap mengacu pada konstitusi ini.
+
+---
+
+# 17. Audit Enam Lapis
+
+Setiap bait yang dianggap matang harus melalui enam audit.
+
+### 17.1 Audit Makna
+
+Apakah bait benar-benar menyampaikan maksud yang hendak dibawa?
+
+### 17.2 Audit Teologis
+
+Apakah penggambaran Asmaul Husna sesuai dengan tauhid dan tanzih?
+
+### 17.3 Audit Basa
+
+Apakah pilihan kosakata dan bentukan bahasa dapat dipertanggungjawabkan?
+
+### 17.4 Audit Sastra
+
+Apakah metafora, simbol, diksi, dan struktur memiliki kedalaman artistik?
+
+### 17.5 Audit Musikalitas
+
+Apakah bait mengalir ketika dilafalkan dan dilantunkan?
+
+### 17.6 Audit Rima
+
+Apakah pola bunyi mendukung keindahan tanpa terasa dipaksakan?
+
+Bait yang kuat adalah bait yang **selaras pada keenam lapisan tersebut**.
+
+---
+
+# 18. Prinsip Utama
+
+> **Aja nyederhanakake tembung mung amarga angel dimangerteni.**
+
+> **Aja ngunggahake tembung mung amarga katon endah.**
+
+> **Pilih tembung amarga maknane trep, rasane luhur, lan swarane urip.**
+
+Dan prinsip tertinggi:
+
+> **Makna kudu bener.**
+> **Teologi kudu trep.**
+> **Adab kudu luhur.**
+> **Basa kudu sugih.**
+> **Sastra kudu urip.**
+> **Rima kudu alami.**
+> **Donga kudu khusyuk.**
+
+Apabila sebuah kata langka merupakan **kata yang paling tepat untuk membawa makna yang dikehendaki**, kata tersebut tidak perlu diganti hanya agar seluruh pendengar langsung memahaminya.
+
+> **Sing angel dipahami durung mesthi salah.**
+> **Sing endah dirungokake durung mesthi bener.**
+> **Sing paling utama yaiku tembung kang trep, luhur, lan nduweni nyawa.**
