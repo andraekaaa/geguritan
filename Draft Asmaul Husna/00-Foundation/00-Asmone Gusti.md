@@ -97,6 +97,7 @@ Ya Allah Gusti, Ingkang Moho Pinasti.
 
 ##### Param 2
 Asmanipun Paduko, Nglebetaken Garis Suci.
+Asmanipun Paduka, nyerat garis kodrat suci.
 
 ---
 
@@ -219,7 +220,13 @@ Lelampahan kawula, manungkul ing margo pinesthi.
 Saben jangkahing gesang, konjuk ing asta Ilahi.
 Panduming dumadi, sumeleh ing karsoning Gusti.
 
+
+Ya Allah Gusti, Ingkang Moho Pinasti.
 Asmanipun Paduka, nyerat garis kodrat suci.
+Lelampahan Kawulo, Mlampah Ing Dalan Pinesthi.
+Saben jangkahing gesang, konjuk ing asta Ilahi.
+Panduming Dumadi, Mlumah Ing Kersaning Gusti.
+
 ---
 
 00 — Allah
