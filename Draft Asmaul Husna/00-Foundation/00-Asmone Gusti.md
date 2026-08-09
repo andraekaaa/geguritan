@@ -82,6 +82,12 @@ Jagad Lan Dumadi, Lumampah Ing Aksara Takdir Paduko.
 Saben Lelampahan, Namung Nglakoni Panduming Gesang.
 Pungkasaning Lampah, Bali Marang Karsa Paduko.
 
+Ya Allah Gusti, Ingkang Maha Pinasti.
+Asmanipun Paduka, nyerat garis kodrat suci.
+Jagad dumadi, lumampah ing aksara takdir Paduka.
+Panduming gesang, sampun katur ing asta Paduka.
+Pungkasaning lampah, sumarah ing karsa Paduka.
+
 # Diksi
 
 ##### Param 1
@@ -187,7 +193,7 @@ Pujineng manungso, tan cekap dados pamudyan.
 
 Ya Allah Gusti, Ingkang Moho Kuoso.
 Asmonipun Paduko, Sumunar ing jagad-royo
-jagad kang Gumelar, panyekseni sumebyaring cahyo
+jagad kang Gumelar, panyeksi sumebyaring cahyo
 Pujineng Kawulo, winates Pangalembono
 Pujineng Manungso, Tan Cekap dados Pamudyo
 
@@ -213,7 +219,7 @@ Lelampahan kawula, manungkul ing margo pinesthi.
 Saben jangkahing gesang, konjuk ing asta Ilahi.
 Panduming dumadi, sumeleh ing karsoning Gusti.
 
-
+Asmanipun Paduka, nyerat garis kodrat suci.
 ---
 
 00 — Allah
@@ -228,3 +234,10 @@ Finalisasi: Setelah 99 Asmaul Husna terkumpul
 → 4 baris inti
 → baris ke-5 = penutup, pengulangan bari ke 4, atau padanan baru.
 → boleh lebih jika memang diperlukan
+
+
+# 11 Al Kholiq
+Ya Allah Gusti, Ingkang Murbeng Dumadi.
+Asmonipun Paduko,
+poro manungso amung wedhar ingkang nyoto
+Kawulo amung ngimani(Kawula amung nyekseni), titah Dalem ingkang maha-adi. `(Kawula amung ngakeni, sahananing titah ingkang murti)`

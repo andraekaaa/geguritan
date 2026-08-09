@@ -1,6 +1,6 @@
 Ya Allah Gusti, ingkang Maha Welas Asih.
 Nyuwun agunge aksomo, kito ingkang kathah duso.
-Kalepatan kito, kadyo wedhi ing Bawono.
+Kalepatan kito, kados wedhi ing Bawono.
 Paringaken taubat, dhumateng kito sedoyo.
 Paringaken taubat, dhumateng umatipun Paduko.
 
