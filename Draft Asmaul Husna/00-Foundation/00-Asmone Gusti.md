@@ -202,7 +202,7 @@ Ya Allah Gusti, Ingkang Moho Kuoso.
 Asmonipun Paduko, Sumunar ing jagad-royo.
 Jagad kang Gumelar, Panyeksi Sumebyaring Cahyo.
 Sagunging Kaendahan, Rerengganing Cokrowolo.
-Sagunging Kamulyan, Amung gubahan Karso Paduko.
+Sagunging Kamulyan, amung gubahan dalem Paduko.`Sagunging Kamulyan, Amung gubahan Karso Paduko.`
 
 
 # Pre Bait 3
@@ -242,9 +242,40 @@ Finalisasi: Setelah 99 Asmaul Husna terkumpul
 → baris ke-5 = penutup, pengulangan bari ke 4, atau padanan baru.
 → boleh lebih jika memang diperlukan
 
+Gatra 1: menyebut sifat/Asma yang dipuji.
+Gatra 2: memperluas sifat itu melalui Asmanipun Paduka.
+Gatra 3: menunjukkan manifestasinya pada jagad/dumadi.
+Gatra 4: respons atau keterbatasan kawula/manungsa.
+Gatra 5: penegasan penutup yang mengembalikan semuanya kepada Allah.
+
 
 # 11 Al Kholiq
 Ya Allah Gusti, Ingkang Murbeng Dumadi.
 Asmonipun Paduko,
-poro manungso amung wedhar ingkang nyoto
+poro manungso amung wedhar ingkang nyoto(peerlu rima I)
 Kawulo amung ngimani(Kawula amung nyekseni), titah Dalem ingkang maha-adi. `(Kawula amung ngakeni, sahananing titah ingkang murti)`
+
+Ya Allah Gusti, Ingkang Murbeng Dumadi.
+Asmanipun Paduko, wangi ambar angambahi.
+Kasektening Pangeran, boten wonten ingkang nyamai.
+Kawulo amung nyekseni, titah Dalem ingkang maha-adi.
+Kasucian lan kaagungan, amung Paduko ingkang Nguwasani.
+
+Ya Allah Gusti, Ingkang Murbeng Dumadi.
+Asmanipun Paduka, nitahaken jagad puniki.
+Jagad kang gumelar, panyeksi agunging Ilahi.
+Rinancang sampurna, nir-bahan nir-piranti.
+Sagunging dumadi, gumelar amancawarni.
+
+
+Ya Allah Gusti, Ingkang Murbeng Dumadi.
+Asmanipun Paduka, nitahaken jagad puniki.
+Rinancang sampurna, nir-bahan nir-piranti.
+[perlu metafora sangat luas rima akhiran harus-i]
+Sagunging dumadi, gumelar amancawarni.
+
+Ya Allah Gusti, Ingkang Murbeng Dumadi.
+Asmanipun Paduka, nitahaken jagad puniki.
+Rinancang sampurna, nir-bahan nir-piranti.
+Kinarya panyeksi, kaendahan tanpa tepi.
+Sagunging dumadi, gumelar amancawarni.
