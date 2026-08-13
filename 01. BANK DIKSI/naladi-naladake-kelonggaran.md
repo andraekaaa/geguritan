@@ -1,0 +1,1 @@
+https://kbji.kemendikdasmen.go.id/kata/kelonggaran
