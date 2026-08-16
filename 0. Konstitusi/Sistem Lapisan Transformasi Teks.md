@@ -1,0 +1,378 @@
+# Sistem Lapisan Transformasi Teks
+
+Dokumen ini menetapkan struktur dan aturan penggunaan lapisan **Kanonik**, **Alternate Varian**, **Elisi**, dan **Fonetis** dalam pengolahan teks lirik.
+
+## 1. Prinsip Utama
+
+**Kanonik adalah bentuk master.**
+
+Kanonik menjadi bentuk teks resmi yang menjadi sumber seluruh turunan. Perubahan untuk kebutuhan pelafalan, pemangkasan, metrum, atau eksperimen diksi **tidak boleh mengubah Kanonik secara otomatis**.
+
+Lapisan turunan digunakan untuk menyesuaikan teks tanpa merusak bentuk master.
+
+---
+
+## 2. Jenis Lapisan
+
+### 2.1 Kanonik
+
+Bentuk teks utama yang ditetapkan sebagai referensi resmi.
+
+Fungsi:
+
+* Menjadi master text.
+* Menjaga bentuk bahasa dan ejaan yang dipilih sebagai bentuk resmi.
+* Menjadi sumber bagi seluruh varian dan adaptasi.
+* Tidak diubah hanya karena kebutuhan pelafalan atau pencetakan.
+
+Contoh:
+
+```text
+Uninga ing sakabehing prakara
+```
+
+---
+
+### 2.2 Alternate Varian
+
+Bentuk alternatif dari Kanonik yang menggunakan diksi berbeda tetapi tetap mempertahankan makna inti dan fungsi dalam bait.
+
+Alternate Varian **bukan koreksi terhadap Kanonik** dan tidak menggantikan Kanonik secara otomatis.
+
+Contoh:
+
+```text
+Kanonik:
+Uninga ing sakabehing prakara
+
+Alternate Varian:
+Widya ing saliring prakara
+```
+
+Perubahan:
+
+```text
+sakabehing → saliring
+Uninga → Widya
+```
+
+merupakan **substitusi/variasi diksi**, bukan Elisi.
+
+Alternate Varian digunakan apabila terdapat alasan seperti:
+
+* kelancaran sastra;
+* kepadatan diksi;
+* kesesuaian makna;
+* wirama;
+* rasa bahasa;
+* kemudahan pelafalan;
+* atau kebutuhan artistik lainnya.
+
+Alternate Varian dapat ditempatkan setelah Fonetis sebagai **bentuk alternatif yang disediakan**. Keberadaannya tidak mengubah atau membatalkan status final bentuk utama.
+
+---
+
+### 2.3 Elisi
+
+Elisi adalah penghilangan atau pemendekan sebagian unsur teks untuk mengurangi beban pelafalan, memperbaiki wirama, atau membuat lirik lebih ringkas.
+
+Contoh:
+
+```text
+Kanonik:
+Uninga ing sakabehing prakara
+
+Elisi:
+Uninga ing kabehing prakara
+```
+
+Perubahan:
+
+```text
+sakabehing → kabehing
+```
+
+merupakan **Elisi**, karena sebagian unsur kata dihilangkan.
+
+Elisi tidak boleh mengubah inti makna secara sembarangan.
+
+---
+
+### 2.4 Fonetis
+
+Fonetis adalah bentuk akhir yang ditulis untuk merepresentasikan **pelafalan yang ditargetkan**, bukan bentuk Kanonik.
+
+Fonetis digunakan untuk:
+
+* memudahkan pembacaan;
+* memandu pelafalan;
+* menyesuaikan bunyi lisan;
+* kebutuhan nyanyian;
+* kebutuhan cetak untuk pembacaan;
+* atau kebutuhan performatif lainnya.
+
+Fonetis merupakan **gerbang terakhir menuju pelafalan**.
+
+Apabila Fonetis telah ditetapkan, maka **seluruh bentuk utama dalam rantai tersebut — Kanonik, Elisi jika ada, dan Fonetis — dianggap FINAL**.
+
+Contoh:
+
+```text
+Kanonik:
+Amba Tanpa Wekasan
+
+Fonetis:
+Ombo Tanpo Wekasan
+```
+
+Perubahan seperti:
+
+```text
+Amba → Ombo
+Tanpa → Tanpo
+```
+
+merupakan perubahan fonetis dan **bukan Elisi**.
+
+---
+
+## 3. Urutan Lapisan
+
+Urutan utama sistem adalah:
+
+```text
+Kanonik
+    ↓
+Alternate Varian (opsional)
+    ↓
+Elisi (opsional)
+    ↓
+Fonetis
+    ↓
+FINAL
+```
+
+Dengan demikian:
+
+> **Fonetis merupakan gerbang terakhir dalam rantai utama dan menandai bahwa keseluruhan bentuk utama telah FINAL.**
+
+Fonetis merepresentasikan bentuk akhir yang akan dibaca atau dilafalkan setelah seluruh pemilihan diksi dan pemangkasan selesai.
+
+**Alternate Varian yang ditempatkan setelah Fonetis tidak dianggap sebagai kelanjutan rantai transformasi.** Varian tersebut hanya merupakan bentuk alternatif yang disediakan untuk pertimbangan atau penggunaan lain.
+
+---
+
+## 4. Jalur Tanpa Varian
+
+Jika tidak ada Alternate Varian:
+
+```text
+Kanonik
+    ↓
+Elisi (opsional)
+    ↓
+Fonetis
+    ↓
+FINAL
+```
+
+Jika tidak membutuhkan Elisi:
+
+```text
+Kanonik
+    ↓
+Fonetis
+    ↓
+FINAL
+```
+
+---
+
+## 5. Jalur Dengan Alternate Varian
+
+Jika sebuah Alternate Varian dipilih sebagai jalur yang akan digunakan, transformasinya mengikuti:
+
+```text
+Kanonik
+    ↓
+Alternate Varian
+    ↓
+Elisi (opsional)
+    ↓
+Fonetis
+    ↓
+FINAL
+```
+
+Contoh:
+
+```text
+Kanonik:
+Uninga ing sakabehing prakara
+
+Alternate Varian:
+Widya ing saliring prakara
+
+Fonetis | Varian:
+Widyo ing saliring prakoro
+```
+
+Karena tidak ada pemangkasan yang diperlukan, Elisi dapat dilewati.
+
+Setelah Fonetis Varian ditetapkan, **jalur tersebut juga dianggap FINAL**.
+
+Alternate Varian lain yang ditempatkan setelah bentuk Fonetis tetap hanya menjadi alternatif dan tidak membatalkan status FINAL.
+
+---
+
+## 6. Elisi dan Fonetis Dapat Digabung
+
+Elisi tidak wajib memiliki versi tersendiri jika pemangkasan dan penyesuaian pelafalan dilakukan dalam satu tahap.
+
+Contoh:
+
+```text
+Kanonik:
+Uninga ing sakabehing prakara
+
+Fonetis | Elisi:
+Uning[o] ing kabehing prakoro
+```
+
+Dalam kasus seperti ini, perubahan:
+
+```text
+sakabehing → kabehing
+```
+
+merupakan Elisi, sedangkan:
+
+```text
+Uninga → Uningo
+prakara → prakoro
+```
+
+merupakan Fonetis.
+
+Keduanya dapat ditulis langsung dalam satu bentuk akhir.
+
+Jika bentuk tersebut telah ditetapkan, **Fonetis | Elisi tersebut menjadi FINAL bersama Kanonik yang menjadi sumbernya**.
+
+---
+
+## 7. Fonetis Tidak Selalu Harus Berdiri Sendiri
+
+Fonetis adalah **lapisan**, bukan kewajiban untuk membuat dokumen terpisah.
+
+Jika tidak terdapat perubahan pelafalan yang perlu dicatat, tidak perlu membuat versi Fonetis yang identik dengan Kanonik.
+
+Jika terdapat Alternate Varian, Fonetis dapat langsung diberi label:
+
+```text
+Fonetis | Varian
+```
+
+Jika terdapat Elisi sekaligus Fonetis:
+
+```text
+Fonetis | Elisi
+```
+
+Jika terdapat Alternate Varian dan Elisi sekaligus:
+
+```text
+Fonetis | Varian | Elisi
+```
+
+Namun bentuk label dapat disederhanakan sesuai kebutuhan dokumentasi.
+
+**Begitu bentuk Fonetis ditetapkan, bentuk tersebut menjadi gerbang akhir dan menandai status FINAL pada keseluruhan jalur utama.**
+
+Alternate Varian yang ditampilkan setelah Fonetis hanya merupakan **bentuk alternatif yang disediakan**, bukan tahap lanjutan.
+
+---
+
+## 8. Prinsip Identitas Setiap Lapisan
+
+| Lapisan              | Pertanyaan utama                              |
+| -------------------- | --------------------------------------------- |
+| **Kanonik**          | Apa bentuk teks resminya?                     |
+| **Alternate Varian** | Apakah ada pilihan diksi alternatif yang sah? |
+| **Elisi**            | Apa yang dapat dipangkas tanpa merusak makna? |
+| **Fonetis**          | Bagaimana bentuk akhir tersebut dilafalkan?   |
+
+Dengan prinsip ini, setiap perubahan memiliki tempat yang jelas dan tidak tercampur.
+
+---
+
+## 9. Aturan Perlindungan Kanonik
+
+Kanonik tidak boleh diubah hanya karena:
+
+* sulit dilafalkan;
+* terlalu panjang untuk dinyanyikan;
+* membutuhkan pemangkasan;
+* terdapat alternatif diksi yang lebih indah;
+* terdapat perubahan vokal dalam pelafalan;
+* atau terdapat kebutuhan versi cetak.
+
+Solusinya adalah membuat lapisan turunan.
+
+Dengan demikian:
+
+```text
+KANONIK = MASTER
+```
+
+sedangkan:
+
+```text
+ALTERNATE VARIAN = PILIHAN DIKSI
+ELISI = PEMANGKASAN
+FONETIS = GERBANG PELAFALAN AKHIR
+```
+
+---
+
+## 10. Prinsip Final
+
+Sistem transformasi mengikuti prinsip:
+
+```text
+Kanonik
+    ↓
+[Alternate Varian]
+    ↓
+[Elisi]
+    ↓
+Fonetis
+    ↓
+FINAL
+```
+
+Tanda `[ ]` menunjukkan bahwa lapisan tersebut bersifat opsional.
+
+**Fonetis merupakan gerbang terakhir dalam rantai utama.**
+
+Apabila Fonetis telah ditetapkan, maka:
+
+> **Kanonik + Elisi jika ada + Fonetis = FINAL**
+
+Alternate Varian dapat ditempatkan setelah bagian FINAL sebagai bentuk alternatif yang disediakan. Varian tersebut **tidak membatalkan, menggantikan, atau membuka kembali status FINAL** dari jalur utama.
+
+### Aturan inti
+
+1. **Kanonik selalu menjadi master.**
+2. **Alternate Varian tidak mengubah Kanonik.**
+3. **Elisi hanya memangkas atau menghilangkan unsur.**
+4. **Substitusi kata bukan Elisi; gunakan Alternate Varian.**
+5. **Fonetis merepresentasikan pelafalan, bukan bentuk bahasa resmi.**
+6. **Fonetis selalu menjadi gerbang terakhir dalam rantai utama.**
+7. **Apabila Fonetis telah ditetapkan, keseluruhan jalur utama dianggap FINAL.**
+8. **Elisi boleh berdiri sendiri sebelum Fonetis atau langsung digabung dengan Fonetis.**
+9. **Tidak semua lapisan harus dibuat jika tidak diperlukan.**
+10. **Versi cetak/performa dapat menggunakan Fonetis atau Fonetis hasil Elisi.**
+11. **Alternate Varian yang ditempatkan setelah Fonetis hanya merupakan bentuk alternatif yang disediakan.**
+12. **Versi publik/arsip utama tetap merujuk pada Kanonik.**
+
+Dengan sistem ini, perubahan bahasa, pilihan diksi, pemangkasan, dan kebutuhan pelafalan dapat berkembang tanpa mengganggu integritas teks Kanonik, sementara **Fonetis menjadi gerbang akhir yang menandai bahwa bentuk utama telah FINAL**.
