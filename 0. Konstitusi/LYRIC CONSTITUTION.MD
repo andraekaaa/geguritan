@@ -86,6 +86,10 @@ atau:
 
 > Ya Allah Gusti, Maha Paring Pitedah.
 
+atau
+
+> Ya Allah Gusti, Ya Allah Ya Mushawwir.
+
 Baris pertama **tidak wajib mengikuti rima baris berikutnya**.
 
 Makna dan kekuatan identitas Asmaul Husna lebih penting daripada keseragaman bunyi.
