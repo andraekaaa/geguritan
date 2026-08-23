@@ -1,0 +1,64 @@
+### Istighfar 
+
+أَسْتَغْفِرُ اللهَ رَبَّ الْبَرَايَا، أَسْتَغْفِرُ اللهَ مِنَ الْخَطَايَا  
+
+رَبَّنَا زِدْنَا عِلْمًا نَافِعًا، وَوَفِّقْنَا عَمَلًا صَالِحًا ... عَمَلًا مَقْبُوْلًا
+
+وَوَسِّعْ لَنَا رِزْقًا حَلَالًا ، وَتُبْ عَلَيْنَا تَوْبَةً نَصُوْحًا
+
+astaghfirullah robbal baroya, astaghfirullah minal khothoya   
+Robbana zidna 'ilman nafi'an, wawafiqna 'amalan sholihan... 'amalan maqbulan...   
+
+`Wawassi' lana rizqon halalan, watub 'alaina taubatan nasuha`   
+
+### Bait 1 `(Gubahan Lirik dari Konten YouTube Kontrafakt)`
+---
+Ya Allah Gusti, nyuwun Pangaksami  
+sampun dangu Kulo, ninggalaken agami   
+infaq, shodaqoh, lan kitab suci   
+nyuwun tuntunan ilahi Robbi   
+
+### Bait 2 `(Gubahan Lirik dari Konten YouTube Kontrafakt)`
+---
+Ya Allah Gusti, ingkang ndamel Jagat   
+kathah bilahi, Kawulo sambat   
+punopo cobo, punopo laknat   
+istighotsah lan maos sholawat   
+
+### Bait 3 `(Gubahan Lirik dari Konten YouTube Kontrafakt)`
+---
+Ya Allah Gusti, ingkang Moho Tartil   
+paringono imam, ingkang jujur lan adil   
+negoro aman, saking tiyang jahil   
+agomo adoh, akale kancel   
+
+### Bait 4 `(Ar-Rahman Ar-Rahim)`
+---  
+1. Ya Allah Gusti, ingkang Maha Welas Asih   
+abdi nyuwun pangapuro, abdi ingkang kathah duso.   
+kalepatan abdi puniki kados wedhi ing jolonidhi   
+paringaken taubat dhuh Gusti dhumateng abdi puniki.   
+mugi Paduko kerso, maringaken taubat ingkang suci   
+
+---
+2. Ya Allah Gusti, ingkang Maha Welas Asih   
+nyuwun agunge aksomo, kito ingkang kathah duso.   
+kalepatan kito, kadyo wedhi ing bumantoro   
+paringaken taubat, dhumateng kulo wargo   
+paringaken taubat, dhumateng kito sedoyo   
+
+### Bait 5 `(Al-Hafidz)`
+---
+Ya Allah Gusti, ingkang Moho Pangreksani    
+mugi njagi kawulo, miyos kaluputaning dunyo.   
+mugi Gusti kerso ngrekso, supadyo mboten muwuhi duso.   
+kawulo mboten kiyat, mapan wonten neroko.   
+mugi Gusti paring rekso, saking latuning patolo.   
+
+### Bait 6 `(Al-Jalil)`
+---
+Ya Allah Gusti, Ingkang Moho Luhur.   
+mugi Nyucekaken penggalih, ingkang cemar lan kuwur.   
+mugi Paduko paring, pepadhang ingkang gumebyar.   
+supados batin kito, ayem-tentrem lan sabar.   
+supadyo manah kito, saged Ikhlas ingkang wiyar.   

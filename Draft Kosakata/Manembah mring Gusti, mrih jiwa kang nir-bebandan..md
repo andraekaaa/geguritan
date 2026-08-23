@@ -1,1 +1,0 @@
-Manembah mring Gusti, mrih jiwa kang nir-bebandan.
