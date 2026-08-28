@@ -13,7 +13,7 @@ Robbana zidna 'ilman nafi'an, wawafiqna 'amalan sholihan... 'amalan maqbulan...
 
 ---
 
-https://www.youtube.com/watch?v=lo97XG1z99k
+[Link YouTube](https://www.youtube.com/watch?v=lo97XG1z99k)
 
 ---
 
