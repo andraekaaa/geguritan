@@ -11,6 +11,12 @@ Robbana zidna 'ilman nafi'an, wawafiqna 'amalan sholihan... 'amalan maqbulan...
 
 `Wawassi' lana rizqon halalan, watub 'alaina taubatan nasuha`   
 
+---
+
+https://www.youtube.com/watch?v=lo97XG1z99k
+
+---
+
 ### Bait 1 `(Gubahan Lirik dari Konten YouTube Kontrafakt)`
 ---
 Ya Allah Gusti, nyuwun Pangaksami  
