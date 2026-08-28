@@ -92,7 +92,7 @@ geguritan/
 │   ├── LICENSE.md
 │   └── karya-karya yang dibebaskan
 │
-├── FINAL/
+├── 99.FINAL/
 │   ├── LICENSE.md
 │   └── karya final yang dibebaskan
 │

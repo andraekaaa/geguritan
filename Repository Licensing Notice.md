@@ -11,7 +11,7 @@ Licensing is determined by the applicable license notice accompanying the releva
 The works contained within the following directories are released under the **Absolute Free Poetry License (Anti-Monopoly)**:
 
 * `ANDRA SAYEKTI/`
-* `FINAL/`
+* `99. FINAL/`
 
 The applicable `LICENSE.md` located within each directory contains the complete terms governing those works.
 
