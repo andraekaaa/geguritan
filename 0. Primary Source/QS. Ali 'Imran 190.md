@@ -1,0 +1,1 @@
+"Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal." (QS. Ali 'Imran: 190)
